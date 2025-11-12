@@ -20,9 +20,12 @@
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
+    "@types/node": "24.10.1",
+    "@types/react": "19.2.3",
     "eslint": "^9",
     "eslint-config-next": "15.5.4",
-    "tailwindcss": "^4.1.13"
+    "tailwindcss": "^4.1.13",
+    "typescript": "5.9.3"
   },
   "description": "This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).",
   "main": "index.js",
